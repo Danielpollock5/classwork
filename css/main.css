@@ -1,0 +1,62 @@
+body{
+	margin: 0;
+}
+ul{
+	text-align: center;	
+	text-decoration: none;
+}
+
+li{
+	display: inline;
+	word-spacing: 75px;
+	padding-bottom: 50px;
+	font-size: 40px;
+
+}
+
+nav{
+	background-color: black;
+	height: 100px;
+}
+
+a{
+	color:white;
+	text-decoration: none;
+
+}
+section{
+	background-color: yellow;
+	height: 100px;
+	text-align: center;
+	word-spacing: 20px;
+}
+
+#one a:hover{
+	color: yellow;
+
+}
+#two a:hover{
+	color: green;
+}
+#three a:hover{
+	color: red;
+}
+#four a:hover{
+	color: blue;
+}
+#five a:hover{
+	color: brown;
+}
+button{
+	margin-top: 30px;
+}
+#button_one{
+	background-color: blue;
+
+}
+#button_two{
+	background-color: green;
+}
+#button_three{
+	background-color: red;
+}
